@@ -90,7 +90,7 @@ button{
 }
 
 body{
-    background-image: url("../__images/background.jpg");
+    background-image: url("__images/background.jpg");
     color: white;
     
 }
