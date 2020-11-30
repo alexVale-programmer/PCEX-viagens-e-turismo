@@ -48,6 +48,7 @@ footer{
 
 .h1Titulo{
     display: inline;
+    font-family:Times,serif;
    
 }
 
@@ -110,5 +111,4 @@ header{
     background-color: blue;
     color: white;
     height: 150px;
-    font-family:Serif;
 }
