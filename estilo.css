@@ -89,12 +89,12 @@ button{
     margin: 800x;
 }
 
-/*
+
 body{
-  background-image: url("__images/background.jpg");
+  background-image: url('background.jpg');
   color: white;
     
-}*/
+}
 
 #table{
     border: 1;
